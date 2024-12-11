@@ -264,7 +264,7 @@ END;
 ## 🎥 Video Explicativo
 Para ver el video de una prueba en vivo del desarrollo, haz clic en el siguiente enlace:
 
-[**Ver Video Explicativo**](https://drive.google.com/drive/folders/1nnjH2p0i6n7rIAM88BfP1SnwrPHEo9u5?usp=sharing)
+[**Ver Video Explicativo**](https://drive.google.com/file/d/1lUdyJxWMRs-zNUeZkzVa15YNz7hqJmlW/view?usp=sharing)
 
 ---
 
